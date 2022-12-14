@@ -119,3 +119,10 @@ input{
   color: blue;
   background-color: #fff;
 }
+
+
+@media only screen and (max-width:652px) {
+  .card{
+    width: 100%;
+  }
+}

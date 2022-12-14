@@ -99,7 +99,7 @@ function App() {
           </form>
         </div>
         <div className="card">
-          <table className="table table-striped table-hover table-bordered">
+          <table className="table table-sm table-dark table-striped table-hover table-bordered table-responsiv">
             <thead>
               <tr>
                 <td>ID</td>
